@@ -56,6 +56,3 @@ The model is evaluated on three versions of the Spoken-SQuAD dataset, reflecting
 
 Contributions to this project are welcome! Please submit a pull request or issue to propose changes or additions.
 
-## License
-
-This project is open-sourced under the MIT License. See the LICENSE file for details.
